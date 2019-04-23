@@ -1,6 +1,6 @@
 body{
     margin: 0 auto;
-    font-family: "ubuntu", "Tahoma", "Microsoft YaHei", arial,sans-serif;
+    font-family: 'Sarasa Mono SC', "Microsoft YaHei", arial,sans-serif;
     color: #444444;
     line-height: 1;
     padding: 30px;
@@ -24,7 +24,7 @@ h1, h2, h3, h4 {
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: Georgia, Palatino, serif;
+	font-family: 'Sarasa Mono SC',Georgia, Palatino, serif;
 }
 h1, h2, h3, h4, h5, dl{
     margin-bottom: 16px;
@@ -91,18 +91,18 @@ ol ol, ul ol {
 }
 
 code, pre {
-    font-family: Consolas, Monaco, Andale Mono, monospace;
+    font-family: Consolas, 'Sarasa Mono SC',Monaco, Andale Mono, monospace;
     background-color:#f7f7f7;
     color: inherit;
 }
 
 code {
-    font-family: Consolas, Monaco, Andale Mono, monospace;
+    font-family: Consolas,'Sarasa Mono SC', Monaco, Andale Mono, monospace;
     margin: 0 2px;
 }
 
 pre {
-    font-family: Consolas, Monaco, Andale Mono, monospace;
+    font-family: Consolas,'Sarasa Mono SC', Monaco, Andale Mono, monospace;
     line-height: 1.7em;
     overflow: auto;
     padding: 6px 10px;
@@ -110,7 +110,7 @@ pre {
 }
 
 pre > code {
-    font-family: Consolas, Monaco, Andale Mono, monospace;
+    font-family: Consolas,'Sarasa Mono SC', Monaco, Andale Mono, monospace;
     border: 0;
     display: inline;
     max-width: initial;
