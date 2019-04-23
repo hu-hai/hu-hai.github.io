@@ -144,6 +144,8 @@ audio, canvas, video {
 
 body {
   font-family: "TimesNewRomanPS-ItalicMT", "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
+  -webkit-font-smoothing: initial;
+  font-weight: 100;
 }
 
 h1, h2, h3, h4, h5, h6  {
